@@ -1,1 +1,2 @@
 
+echo last > /tmp/2.txt
