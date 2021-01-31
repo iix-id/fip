@@ -1,2 +1,2 @@
 
-echo last > /tmp/2.txt
+echo last > /tmp/4.txt
