@@ -1,2 +1,1 @@
 
-echo first > /tmp/3.txt
